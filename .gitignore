@@ -1,0 +1,33 @@
+# Compiled files
+*.o
+*.obj
+*.out
+*.exe
+*.class
+*.so
+*.dll
+*.dylib
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# IDEs
+*.idea/
+*.target/
+*.vscode/
+
+# Vim
+*.swp
+*.swo
+*.un~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
